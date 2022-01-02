@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2021, 15:34:23
+    Author     : agallard
+*/
+
+
+
+h1{
+    color:red;
+    font-family: serif;
+    font-size: 40px;
+}
+h2{
+    color:black;
+    font-family: serif;
+    font-size: 30px;
+    
+}
+h3{
+    color:black;
+    font-family: serif;
+    font-size: 50px;
+}
+li{
+    color: black;
+    font-family: serif;
+    font-size: 30px;
+}
+p{
+    color: #ffffff
+}
+table{
+    border:1px black solid;width: 25%;
+}
+
+td{
+    border:1px black solid;width: 25%;
+}
+tr{
+    border:1px black solid;width: 25%;
+}
+
+titre{
+    font-family: serif;
+    font-size: 50px;
+    color: #ff0000 
+}
+dive.relative{
+    position:relative;
+    border:5px;
+    color:#ff0000;
+}
